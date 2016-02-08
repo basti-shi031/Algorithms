@@ -38,8 +38,8 @@ public class BaseSort {
         int length = a.length;
 
         for (int i = 1; i < length; i++) {
-            if (less(a[i], a[i + 1])) {
-                return true;
+            if (less(a[i], a[i - 1])) {
+                return false;
             }
         }
 
@@ -51,6 +51,7 @@ public class BaseSort {
         BufferedReader br = new BufferedReader(new
                 InputStreamReader(System.in));
         String[] a = br.readLine().split(" ");
+
 
     }
 }
