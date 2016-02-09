@@ -76,9 +76,9 @@ public class SelectionSort extends BaseSort {
         L.l(String.valueOf(selectionSort.isSorted(a)));*/
 
         //随机生成
-        for (int i = 0;i<10;i++){
+        for (int i = 0; i < 10; i++) {
             String[] a = new String[10];
-            Random.Strings(10,a);
+            Random.Strings(10, a);
             selectionSort.sort(a);
             selectionSort.show(a);
             L.l(String.valueOf(selectionSort.isSorted(a)));
