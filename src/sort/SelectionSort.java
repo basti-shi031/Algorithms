@@ -4,9 +4,7 @@ import sort.base.BaseSort;
 import utils.L;
 import utils.Random;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
 /**
  * 选择排序
