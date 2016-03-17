@@ -1,0 +1,25 @@
+Ex 2-1 P166
+2.1.1
+    i  min  0 1 2 3 4 5 6 7 8 9 10 11
+            E A S Y Q U E S T I O  N
+    0  1    E A S Y Q U E S T I O  N
+    1  1    A E S Y Q U E S T I O  N
+            A E S Y Q U E S T I O  N
+
+2.1.2
+    最多交换 n-1次 Z A B C D E ....
+    平均交换1次 N个数字 一共交换N次
+
+2.1.4
+    EASYQUESTION
+    AESYQUESTION
+    AESYQUESTION
+    AESYQUESTION
+    AEQSYUESTION
+    ....
+
+2.1.6
+    插入排序
+
+2.1.8
+     平方级别
